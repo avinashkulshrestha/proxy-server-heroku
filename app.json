@@ -5,7 +5,7 @@
     "proxy",
     "go"
   ],
-  "repository": "https://github.com/XI11A/proxy-server-heroku",
+  "repository": "https://github.com/avinashkulshrestha/proxy-server-heroku",
   "env": {
      "UPSTREAM_SERVER": {
         "description": "URL of upstream server to which all requests should be proxied eg.https://www.google.com"
